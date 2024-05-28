@@ -1,0 +1,20 @@
+Kullanım Talimatları:
+1- Hesap.txt dosyasını Not Defteri ile açın ve şifre bölümünü şifrenizle değiştirin. Ardından alttaki /survival bölümünü hangi moda gircekseniz onu yazın örneğin /skyblock.
+2- Windows iseniz baslat.bat, Linux iseniz baslat.sh dosyasını sağ tıklayıp düzenle diyin orada ¨MinecraftClient.exe isim -¨ yazan satırdaki isim i silin ve oyundaki isminizi yazın.
+3- MinecraftClient yazan Yapılandırma ayarları dosyasını not defteri olarak açın ve ¨serverip=¨ yazan yerin sonunda server ipnizi yazın.
+4- Windows kullanıyorsanız baslat.bat dosyasını, Linux kullanıyorsanız baslat.sh dosyasını çalıştırın.
+5- Sunucuya konsol uygulaması ile girdiniz.
+
+    [[[Yardım için Discord: furkangn7]]]
+
+Sunucu kapandığında ya da atıldığınızda otomatik tekrardan bağlanmaya çalışacaktır. Böylelikle 7/24 AFK kalabilirsiniz.
+
+Linux İçin Gelişmiş Talimatlar:
+  Linux kullanıyorsanız öncelike mono-complete paketini kurmanız gerekiyor.
+  Centos için:
+  yum install mono-complete
+
+  Ubuntu ve Debian İçin:
+  apt install mono-complete
+
+  Bu komutlar sizin için çalışmazsa Google üzerinde "How to install mono-complete Linux" diye aratıp daha detaylı bilgi bulabilirsiniz.
