@@ -6,15 +6,3 @@ Usage Instructions:
 5- You have entered the server with the console application.
 
      [[[Discord for help: furkangn7]]]
-
-It will try to reconnect automatically when the server is down or kicked out. That way you can stay AFK 24/7.
-
-Advanced Instructions for Linux:
-   If you are using Linux, you must first install the mono-complete package.
-   For Centos:
-   yum install mono-complete
-
-   For Ubuntu and Debian:
-   apt install mono-complete
-
-   If these commands do not work for you, you can find more detailed information by searching "How to install mono-complete Linux" on Google.
