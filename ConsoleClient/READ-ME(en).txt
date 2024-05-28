@@ -2,7 +2,7 @@ Usage Instructions:
 1- Open the Hesap.txt file with Notepad and change the şifre section with your password. Then write the /survival section below which mode you want to enter, for example /skyblock.
 2- Right click baslat.bat if you are Windows, and edit baslat.sh if you are Linux, delete the isim in the line that says ¨MinecraftClient.exe isim -¨ and write your name in the game.
 3- Open the Configuration settings file that says MinecraftClient as notepad and type your server ip at the end of where it says ¨serverip=¨.
-4- Run the baslat.bat file if you are using Windows, and the baslat.sh file if you are using Linux.
+4- Run the baslat.bat file if you are using Windows
 5- You have entered the server with the console application.
 
      [[[Discord for help: furkangn7]]]
